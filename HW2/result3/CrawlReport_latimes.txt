@@ -1,0 +1,42 @@
+Name: xxx 
+USC ID: xxxxxxxxxx
+News site crawled: latimes.com
+Number of threads: 7
+
+fetch Statistics
+================
+# fetches attempted: 19986
+# fetches succeeded: 19314
+# fetches failed or aborted: 672
+
+Outgoing URLs:
+================
+Total URLs extracted: 2695295
+# unique URLs extracted: 278589
+# unique URLs within News Site: 184244
+# unique URLs outside News Site: 94345
+
+Status Codes:
+================
+200 OK: 19303
+301 Moved Permanently: 543
+302 Moved Temporarily: 14
+307 Temporary Redirect: 47
+400 Bad Request: 2
+403 Forbidden: 1
+404 Not Found: 62
+500 Internal Server Error: 1
+
+File Sizes:
+================
+< 1KB: 5
+1KB ~ <10KB: 47
+10KB ~ <100KB: 329
+100KB ~ <1MB: 18215
+>= 1MB: 20
+
+Content Types:
+================
+image/png: 22
+image/svg+xml: 11
+text/html: 18581

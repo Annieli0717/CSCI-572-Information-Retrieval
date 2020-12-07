@@ -1,0 +1,43 @@
+Name: Dunxuan Li
+USC ID: 6625999096
+News site crawled: latimes.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted: 19998
+# fetches succeeded: 19272
+# fetches failed or aborted: 726
+
+Outgoing URLs:
+================
+Total URLs extracted: 2669039
+# unique URLs extracted: 278311
+# unique URLs within News Site: 184438
+# unique URLs outside News Site: 93873
+
+Status Codes:
+================
+200 OK: 19272
+301 Moved Permanently: 514
+302 Moved Temporarily: 14
+307 Temporary Redirect: 128
+400 Bad Request: 2
+403 Forbidden: 1
+404 Not Found: 66
+500 Internal Server Error: 1
+
+File Sizes:
+================
+< 1KB: 5
+1KB ~ <10KB: 48
+10KB ~ <100KB: 371
+100KB ~ <1MB: 18105
+>= 1MB: 19
+
+Content Types:
+================
+image/jpeg: 4
+image/png: 22
+image/svg+xml: 11
+text/html: 18511

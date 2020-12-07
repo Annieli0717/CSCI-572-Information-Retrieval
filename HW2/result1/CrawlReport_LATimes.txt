@@ -1,0 +1,47 @@
+Name: xxx 
+USC ID: xxxxxxxxxx
+News site crawled: latimes.com
+Number of threads: 7
+
+fetch Statistics
+================
+# fetches attempted: 19991 = attemptedUrls.size()				
+# fetches succeeded: 19080 = visitedUrls.size()
+# fetches failed or aborted: 911 = statusCode >= 300 && info.statusCode < 400 + info.statusCode != 200
+
+Outgoing URLs:
+================
+Total URLs extracted: 2632908 = discoveredUrls.size()
+# unique URLs extracted: 276819
+# unique URLs within News Site: 184300 = "OK"
+# unique URLs outside News Site: 92519 = "NOK"
+
+Status Codes:
+================
+302 Moved Temporarily: 14
+301 Moved Permanently: 707
+200 OK: 19078
+307 Temporary Redirect: 128
+400 Bad Request: 1
+404 Not Found: 59
+403 Forbidden: 1
+500 Internal Server Error: 1
+
+File Sizes:
+================
+< 1KB: 91
+1KB ~ <10KB: 262
+10KB ~ <100KB: 691
+100KB ~ <1MB: 17931
+>= 1MB: 16
+
+Content Types:
+================
+image/png: 22
+text/html: 18306
+image/jpeg: 4
+application/javascript: 3
+image/svg+xml: 13
+application/xml;charset=UTF-8: 641
+image/vnd.microsoft.icon: 1
+application/font-woff2: 1

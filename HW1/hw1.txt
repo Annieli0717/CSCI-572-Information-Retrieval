@@ -1,0 +1,5 @@
+From the statistics we got, we can see that DuckDuckGo performed worse than Google. Because 
+
+(1) the percent overlap is 18.9%, which means on average, DuckDuckGo returns 18.9% identical results with Google, regardless of their position. 
+
+(2) the Spearman's rank correlation is -3.3, which means the rank of DuckDuckGo is dissimilar to the rank of Google. The negative Spearman coefficient indicates that the overlapping results are uncorrelated. Clearly the two search engines are using different algorithms for weighting and ranking the documents they determine are most relevant to the query. Moreover their algorithms are emphasizing different ranking features.
